@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.body{
+    height: 100px;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.blue {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
